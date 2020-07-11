@@ -25,7 +25,7 @@ SECRET_KEY = 'aw=%fl(=n$r@bci1ct$^wxnc-w#i_lr$jx_b9%(^6&j%^5l-v1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['schoolt.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['schoolt.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
